@@ -1,0 +1,15 @@
+﻿生成启动时间为 2022/4/21 11:51:09。
+     1>项目“D:\Download\my_c_code_project\test_null\test_null\test_null.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Download\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt game.c
+         game.c
+     1>d:\download\my_c_code_project\test_null\test_null\game.c(140): warning C4715: “Is_win”: 不是所有的控件路径都返回值
+       Link:
+         D:\Download\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Download\my_c_code_project\test_null\Debug\test_null.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Download\my_c_code_project\test_null\Debug\test_null.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Download\my_c_code_project\test_null\Debug\test_null.lib" /MACHINE:X86 Debug\game.obj
+         Debug\test.obj
+         test_null.vcxproj -> D:\Download\my_c_code_project\test_null\Debug\test_null.exe
+     1>已完成生成项目“D:\Download\my_c_code_project\test_null\test_null\test_null.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.81
